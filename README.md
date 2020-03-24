@@ -28,7 +28,7 @@ To compile curl, you need
     same level, for e.g. zlib is in E:\Projects\zlib, websocketpp is
     in E:\Projects\websocketpp etc. boost sources would be in
     E:\Projects\Boost.
-  * The last command below install boost headers and libraries in
+  * The last command below installs boost headers and libraries in
     E:\Boost. These projects refer to this relative path (i.e. the
     installed boost is in one level higher than the Projects folder).
   * This command uses toolset=msvc-14.2 (aka VS 2019). As newer
